@@ -11,7 +11,6 @@ st.markdown("""<style>
 [data-testid="stMetric"]{background:#172b43;padding:15px;border-radius:14px;border:1px solid #29415b}
 h1,h2,h3{letter-spacing:-.03em}
 </style>""", unsafe_allow_html=True)
-st.image("assets/banner_financiero.png", use_container_width=True)
 st.title("FinanceLab · Mi Observatorio Financiero")
 st.caption("ITM · Python · Streamlit · Yahoo Finance")
 
